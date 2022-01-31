@@ -1,0 +1,16 @@
+{
+  "customers": [
+    {
+      "Id": 1,
+      "Name": "test-7"
+    },
+    {
+      "Id": 2,
+      "Name": "Mary"
+    },
+    {
+      "Id": 3,
+      "Name": "Joe"
+    }
+  ]
+}
